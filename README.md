@@ -1,6 +1,6 @@
 <!-- 1. HEADER / BANNER DENGAN CAPSULE RENDER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hii,%20SI%20am%20YossGarr&fontSize=42&fontAlignY=38&desc=IoT%20%7C%20Backend%20Dev%20%7C%20Full-Stack&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hii,%20I%20am%20YossGarr&fontSize=42&fontAlignY=38&desc=IoT%20%7C%20Backend%20Dev%20%7C%20&descAlignY=60&descAlign=50" width="100%" />
 
   <!-- 2. TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
