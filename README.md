@@ -42,12 +42,6 @@
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <!-- GANTI 'USERNAME_ANDA' DENGAN USERNAME GITHUB ASLI -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yossgarr&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossgarr&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yossgarr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
